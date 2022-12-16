@@ -54,15 +54,6 @@
         "accessibility_info": ""
       }
     },
-    "f13812d9-ace4-4989-904f-08d81c34d548": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-2",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "5aa087fa-fa21-4bb2-a2a4-cd11517194a0": {
       "type": "custom-liquid",
       "settings": {
@@ -151,7 +142,6 @@
   },
   "order": [
     "5ff1812b-ecd2-41b7-a39c-270483a15ec1",
-    "f13812d9-ace4-4989-904f-08d81c34d548",
     "5aa087fa-fa21-4bb2-a2a4-cd11517194a0",
     "e9597792-a467-44a8-8041-1451e6e2463c",
     "e4298a89-1321-427c-9ca1-99923aae3d45"
