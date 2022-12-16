@@ -1,1 +1,71 @@
-{"sections":{"5ff1812b-ecd2-41b7-a39c-270483a15ec1":{"type":"slideshow","blocks":{"template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/1_2de07198-3648-4301-b18c-0ffa4f52b457.png","heading":"","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":true,"box_align":"middle-center","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"background-2","text_alignment_mobile":"left"}},"template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/2.png","heading":"","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"top-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"background-2","text_alignment_mobile":"left"}}},"block_order":["template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-0","template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-1"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"show_text_below":false,"accessibility_info":""}},"5aa087fa-fa21-4bb2-a2a4-cd11517194a0":{"type":"custom-liquid","settings":{"custom_liquid":"<style> \nh2 {\nmargin-left: 20px;\nfont-weight: 900;\n}\n\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding img {\ncursor: pointer !important;\nopacity: 1.0;\n}\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding img:hover {\nopacity: 0.6;\n}\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding {\ntext-align: center;\n}\n<\/style>\n<h2> CATEGORIAS <\/h2>\n{{ images['CASA.png'] | image_url: width: 180 | image_tag | link_to: collection.url }}\n\n{{ images['ELETTRONICOS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['SAUDE-E-BELEZA.png'] | image_url: width: 180 | image_tag }}\n\n\n{{ images['BRINQUEDOS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['PETS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['AUTO-E-MOTO.png'] | image_url: width: 180 | image_tag }}\n\n<hr \/>","color_scheme":"background-2","padding_top":40,"padding_bottom":52}}},"order":["5ff1812b-ecd2-41b7-a39c-270483a15ec1","5aa087fa-fa21-4bb2-a2a4-cd11517194a0"]}
+{
+  "sections": {
+    "5ff1812b-ecd2-41b7-a39c-270483a15ec1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2de07198-3648-4301-b18c-0ffa4f52b457.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-0",
+        "template--17224668479790__5ff1812b-ecd2-41b7-a39c-270483a15ec1-16708395935b166d23-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "5aa087fa-fa21-4bb2-a2a4-cd11517194a0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style> \nh2 {\nmargin-left: 20px;\nfont-weight: 900;\n}\n\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding img {\ncursor: pointer !important;\nopacity: 1.0;\n}\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding img:hover {\nopacity: 0.6;\n}\n.section-template--17242986414382__5aa087fa-fa21-4bb2-a2a4-cd11517194a0-padding {\ntext-align: center;\n}\n<\/style>\n<h2> CATEGORIAS <\/h2>\n{{ images['CASA.png'] | image_url: width: 180 | image_tag | link_to: collection.url }}\n\n{{ images['ELETTRONICOS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['SAUDE-E-BELEZA.png'] | image_url: width: 180 | image_tag }}\n\n\n{{ images['BRINQUEDOS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['PETS.png'] | image_url: width: 180 | image_tag }}\n\n{{ images['AUTO-E-MOTO.png'] | image_url: width: 180 | image_tag }}\n\n<hr \/>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "5ff1812b-ecd2-41b7-a39c-270483a15ec1",
+    "5aa087fa-fa21-4bb2-a2a4-cd11517194a0"
+  ]
+}
