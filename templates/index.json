@@ -72,69 +72,45 @@
         "padding_bottom": 52
       }
     },
-    "414a6e6c-0d16-4797-a36a-6ae034b7fa5c": {
-      "type": "featured-product",
+    "e9597792-a467-44a8-8041-1451e6e2463c": {
+      "type": "collage",
       "blocks": {
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-0": {
-          "type": "text",
+        "1b2b6ddb-76d0-4dd1-bd47-2c2e24595ab2": {
+          "type": "video",
           "settings": {
-            "text": "",
-            "text_style": "uppercase"
+            "video_url": "https:\/\/www.youtube.com\/watch?v=s4IHAupdn6c",
+            "description": "Describe the video",
+            "image_padding": false
           }
         },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-1": {
-          "type": "title",
+        "template--17265200136494__e9597792-a467-44a8-8041-1451e6e2463c-16712002681efc6c42-2": {
+          "type": "collection",
           "settings": {
-            "heading_size": "h2"
+            "collection": "casa"
           }
         },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-2": {
-          "type": "price",
+        "template--17265200136494__e9597792-a467-44a8-8041-1451e6e2463c-16712002681efc6c42-1": {
+          "type": "product",
           "settings": {
-          }
-        },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-4": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-6": {
-          "type": "share",
-          "settings": {
-            "share_label": ""
+            "product": "small-electric-juicer-6-blades-portable-juicer-cup-juicer-fruit-juice-cup-automatic-smoothie-blender-ice-crushcup",
+            "second_image": false
           }
         }
       },
       "block_order": [
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-0",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-1",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-2",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-3",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-4",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-5",
-        "template--17265200136494__414a6e6c-0d16-4797-a36a-6ae034b7fa5c-1671199793115b1af9-6"
+        "1b2b6ddb-76d0-4dd1-bd47-2c2e24595ab2",
+        "template--17265200136494__e9597792-a467-44a8-8041-1451e6e2463c-16712002681efc6c42-2",
+        "template--17265200136494__e9597792-a467-44a8-8041-1451e6e2463c-16712002681efc6c42-1"
       ],
       "settings": {
-        "product": "kitchen-accessories-fruit-and-vegetable-silicone-bag-reusable-fresh-keeping-sealed-bag-refrigerator-food-storage-ziplock-bag",
-        "color_scheme": "background-2",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 20,
-        "padding_bottom": 0
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -142,6 +118,6 @@
     "5ff1812b-ecd2-41b7-a39c-270483a15ec1",
     "f13812d9-ace4-4989-904f-08d81c34d548",
     "5aa087fa-fa21-4bb2-a2a4-cd11517194a0",
-    "414a6e6c-0d16-4797-a36a-6ae034b7fa5c"
+    "e9597792-a467-44a8-8041-1451e6e2463c"
   ]
 }
