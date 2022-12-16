@@ -122,6 +122,10 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/kalusa_ca83886d-f5a6-4089-967c-0340ba986e65.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/kalusa_6b6d2d58-db62-4e9c-ab4a-6c5a6e0676be.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
