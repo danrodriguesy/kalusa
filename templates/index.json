@@ -85,7 +85,7 @@
           "type": "product",
           "settings": {
             "product": "small-electric-juicer-6-blades-portable-juicer-cup-juicer-fruit-juice-cup-automatic-smoothie-blender-ice-crushcup",
-            "second_image": false
+            "second_image": true
           }
         }
       },
