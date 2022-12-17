@@ -11,12 +11,12 @@
     "48cec67a-3b5e-47f7-9c4f-418e64cac10d": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/telemarketing-o-que-o-mercado-esta-ignorando-mas-voce-nao-deve-ignorar.jpg",
+        "image": "shopify:\/\/shop_images\/Design_sem_nome_7.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "center",
