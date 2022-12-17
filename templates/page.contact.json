@@ -8,6 +8,22 @@
         "padding_bottom": 0
       }
     },
+    "c3d5f949-3fcc-4b29-94a8-06dec76c6938": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design_sem_nome_7.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "efb4e913-6f3e-4564-97b0-00d580469f95": {
       "type": "rich-text",
       "blocks": {
@@ -140,6 +156,7 @@
   },
   "order": [
     "main",
+    "c3d5f949-3fcc-4b29-94a8-06dec76c6938",
     "efb4e913-6f3e-4564-97b0-00d580469f95",
     "form",
     "newsletter",
